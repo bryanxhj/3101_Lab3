@@ -10,7 +10,7 @@ namespace ICT3101_Calculator.UnitTests.Step_Definitions
     public class SpecFlowFeature1Steps
     {
 
-        //Context Injection for SpecFLow:
+        //Context Injection for SpecFLow:f
         private Calculator _calculator;
         private double _result;
         public SpecFlowFeature1Steps(Calculator calc)
